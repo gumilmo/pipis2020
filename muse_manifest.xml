@@ -1,0 +1,200 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="1lol1.com" resolutions="1x" timestamp="1577019167942">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4047773538" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="340535759" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4286661555" ref="index"/>
+    <file name="webpro.js" crc="4059564322" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="наряди2020.png" crc="95787722" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u674.png" crc="201711533" ref="index"/>
+    <file name="u674-r.png" crc="3961173684" ref="index"/>
+    <file name="hat2.png" crc="357396617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat1.png" crc="4006528517" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat3.png" crc="469155716" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat4.png" crc="152294985" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat5.png" crc="449751533" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat6.png" crc="4163635328" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat7.png" crc="273481989" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat8.png" crc="3785136964" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat9.png" crc="446971648" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat10.png" crc="130108323" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat11.png" crc="3839504408" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat19.png" crc="4277212201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat12.png" crc="522784047" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat13.png" crc="4012977777" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat14.png" crc="4114297907" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat15.png" crc="3880068106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat16.png" crc="384378436" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="19.png" crc="510618516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat17.png" crc="3839830994" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hat18.png" crc="4123948031" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u667.png" crc="173621968" ref="index"/>
+    <file name="u667-r.png" crc="527597327" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u979.png" crc="56173722" ref="index"/>
+    <file name="u979-r.png" crc="3787871970" ref="index"/>
+    <file name="1_2.png" crc="250992316" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_19.png" crc="103485421" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_20.png" crc="4142669200" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_3.png" crc="123098122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_4.png" crc="131227483" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_5.png" crc="4004175652" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_6.png" crc="311106345" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_7.png" crc="3838103014" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_8.png" crc="3865156539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_9.png" crc="14826458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_10.png" crc="4081485851" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_11.png" crc="4261394997" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_12.png" crc="4082898278" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_14.png" crc="3777222486" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_15.png" crc="3787426656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_16.png" crc="196183895" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_17.png" crc="3910586022" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_18.png" crc="130657516" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sonc.png" crc="3978285115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="1_13.png" crc="3785003370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slot_grudak.png" crc="3887558656" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="buhar.png" crc="438099496" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u981.png" crc="173621968" ref="index"/>
+    <file name="u981-r.png" crc="4154249922" ref="index"/>
+    <file name="2_1.png" crc="3900686450" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_2.png" crc="3902767173" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="botl.png" crc="3833236934" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_4.png" crc="123846772" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="slot_feet.png" crc="510550825" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="elf.png" crc="4096859439" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="2_3.png" crc="3950418171" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1021.png" crc="201711533" ref="index"/>
+    <file name="u1021-r.png" crc="343876170" ref="index"/>
+    <file name="u1023.png" crc="429270308" ref="index"/>
+    <file name="u1023-r.png" crc="125238100" ref="index"/>
+    <file name="обложк.png" crc="521137438" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="timur.png" crc="120177001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="simple.jpg" crc="136637001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yo.jpg" crc="469682198" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="иконка.jpg" crc="3951026501" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="241247706" seo="true" mt="1577018897043" redirect="true"/>
+</manifest>
